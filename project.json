@@ -1,0 +1,12 @@
+{
+  "id": "Teste",
+  "documents": [
+    "StRS.json"
+  ],
+  "traceability": {
+  },
+  "metadata": {
+    "format": "2.22",
+    "saveHistory": true
+  }
+}
